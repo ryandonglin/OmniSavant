@@ -8,6 +8,8 @@
 
 ## System Design (SD)
 
+> System Design Primer （250K star）-> https://github.com/donnemartin/system-design-primer
+
 ## Coding
 
 ## 行为面试
