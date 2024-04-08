@@ -5,6 +5,10 @@
 ### Kubernetes
 
 > 云原生技术公开课 -> https://edu.aliyun.com/course/314164
+>
+
+### Cloud Storage
+> Azure Cloud Storage -> pdfBook： https://sigops.org/s/conferences/sosp/2011/current/2011-Cascais/11-calder-online.pdf
 
 ## System Design (SD)
 
